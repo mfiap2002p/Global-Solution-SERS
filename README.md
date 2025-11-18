@@ -13,7 +13,7 @@ Este projeto visa tornar ambientes de trabalho mais eficientes e sustentáveis a
 * **Bibliotecas**: Pandas (manipulação de dados), Numpy (cálculos matemáticos), Matplotlib (visualização de gráficos).
 
 ## 📊 Resultados da Simulação
-Utilizando o script `analise_energetica.py` disponível neste repositório, alcançamos os seguintes resultados simulados:
+Utilizando o script `GS - Soluções em Energias Renováveis e Sustentáveis.py` disponível neste repositório, alcançamos os seguintes resultados simulados:
 
 ### 1. Eficiência Energética (Opção A)
 Através da simulação de troca de equipamentos por LED e automação do ar-condicionado:
